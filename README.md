@@ -1,5 +1,5 @@
 # hamspace
-hamspace is a simple program created for palia.
+hamspace is a simple program created for palia (But can always be used for other things).
 
 # Only for Windows
 This program is made for windows 10/11
