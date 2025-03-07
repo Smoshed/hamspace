@@ -11,3 +11,5 @@ Simply start the hamspace.exe file.
 It will silently launchy in your taskmanager.
 
 ![hamspace shows in taskmanager](https://i.imgur.com/sRNpGHs.png)
+
+To close the program, simply right click the hamspace icon.
