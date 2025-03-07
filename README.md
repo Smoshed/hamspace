@@ -12,4 +12,6 @@ It will silently launchy in your taskmanager.
 
 ![hamspace shows in taskmanager](https://i.imgur.com/sRNpGHs.png)
 
+Use F6 to start and stop the program.
+
 To close the program, simply right click the hamspace icon.
