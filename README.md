@@ -1,5 +1,5 @@
 # hamspace
-hamspace is a simple program created for palia (But can always be used for other things).
+hamspace is a simple program that will spam your spacebar.
 
 # Only for Windows
 This program is made for windows 10/11
